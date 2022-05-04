@@ -25,16 +25,15 @@ const notes = [
   },
   {
     key: 5,
-    title: "ReactJS",
+    title: "Array data structure",
     content:
-      "React is Javascript framework which is really efficient in creating dynamic webpage content"
+      "The Array object, as with arrays in other programming languages, enables storing a collection of multiple items under a single variable name, and has members for performing common array operations"
   }
   ,
   {
     key: 6,
-    title: "NodeJS",
-    content:
-      "Node is a backend language"
+    title: "Strict mode",
+    content: "JavaScript's strict mode, introduced in ECMAScript 5, is a way to opt in to a restricted variant of JavaScript, thereby implicitly opting-out of sloppy mode"
   }
 ];
 
